@@ -1,0 +1,40 @@
+/* Use of tag selector */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 20px;
+  padding: 0;
+}
+
+/* Use of class selector */
+.main-heading {
+  color: #0066cc;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/* Use of ID selector */
+#intro {
+  font-size: 18px;
+  margin: 20px;
+}
+
+/* Image styling */
+.styled-image {
+  display: block;
+  margin: 20px auto;
+  border: 4px solid #ddd;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+/* Box styling */
+.content-box {
+  background-color: #fff;
+  padding: 20px;
+  margin: 30px auto;
+  border: 2px solid #ccc;
+  width: 80%;
+  border-radius: 8px;
+}
